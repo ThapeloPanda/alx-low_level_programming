@@ -1,10 +1,15 @@
-#include <stdlib.h>
+/*
+ * File: 2-print_alphabet.c
+ * Auth: Thapelo Ramathetse
+ */
+
 #include <stdio.h>
-#include <time.h>
+
 /**
  * main - Entry point
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char letter;
