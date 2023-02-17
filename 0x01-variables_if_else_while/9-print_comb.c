@@ -1,6 +1,6 @@
 /*
  * File: 9-print_comb.c
- * Auth: Thapelo Ramthetse
+ * Auth: Thapelo Ramathetse
  */
 #include <stdio.h>
 /**
