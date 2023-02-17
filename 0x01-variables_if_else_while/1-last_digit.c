@@ -1,5 +1,7 @@
-#include <stdlib.h>
-#include <time.h>
+/*
+ * File: 1-last_digit.c
+ * Auth: Thapelo Ramathetse
+ */
 #include <stdio.h>
 /**
  * main - Entry point
