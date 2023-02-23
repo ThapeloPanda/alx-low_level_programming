@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <stlib.h>
 
 /**
  * main - Prints a Fizz Buzz program
