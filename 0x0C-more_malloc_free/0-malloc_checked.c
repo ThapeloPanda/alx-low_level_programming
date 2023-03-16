@@ -5,7 +5,7 @@
  * *malloc_checked - allocated memory using malloc
  * @b: number of bytes to allocate
  *
- * Retunr: a pointer to the allocated memory
+ * Return: a pointer to the allocated memory
  */
 void *malloc_checked(unsigned int b)
 {
