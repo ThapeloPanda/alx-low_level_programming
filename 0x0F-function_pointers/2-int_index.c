@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 
 /**
- * int_index - returns the index of the first element for which the cmp function does not return 0
+ * int_index - return index place if comparison = true, else -1
  * @array: array
  * @size: number of elements in the array
  * @cmp:  a pointer to the function to be used to compare values
